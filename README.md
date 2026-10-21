@@ -67,21 +67,6 @@ I care about building things that work beyond the demo.
 
 ---
 
-## `selected_work`
-
-<div align="center">
-
-<a href="https://github.com/harshitrajj23/Model-Bisect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitrajj23&repo=Model-Bisect&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/harshitrajj23/MediAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitrajj23&repo=MediAI&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/harshitrajj23/Vyntra">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshitrajj23&repo=Vyntra&theme=github_dark&hide_border=true" />
-</a>
 
 </div>
 
